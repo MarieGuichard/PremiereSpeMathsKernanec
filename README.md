@@ -1,14 +1,13 @@
-Progression pour l'année 2024-2025 (Attention, ceci est à titre informatif et est susceptible d'être modifié au cours de l'année). 
+Progression pour l'année 2026-2027 (Attention, ceci est à titre informatif et est susceptible d'être modifié au cours de l'année). 
 1. Second degré
-2. Les suites arithmétiques et géométriques.
+2.La trigonométrie.
 3. Les probabilités conditionnelles.
-4. La trigonométrie.
-5. La dérivation.
-6. Le produit scalaire.
-7. Les suites-généralités.
-8. Application de la dérivation.
-9. La géométrie repèrée.
+4. Les suites arithmétiques et géométriques.
+5. Le produit scalaire.
+6. Dérivation locale.
+7. Les variables aléatoires.
+8.Dérivation globale et applications.
+9. Les suites-généralités.
 10. La fonction exponentielle.
-11. Les variables aléatoires.
-12. Les applications du produit scalaire.
-13. Les fonctions trigonométriques. 
+11. La géométrie repèrée.
+12. Expérimentation.
