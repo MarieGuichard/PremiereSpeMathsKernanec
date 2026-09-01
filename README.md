@@ -6,7 +6,7 @@ Progression pour l'année 2026-2027 (Attention, ceci est à titre informatif et 
 5. Le produit scalaire.
 6. Dérivation locale.
 7. Les variables aléatoires.
-8.Dérivation globale et applications.
+8. Dérivation globale et applications.
 9. Les suites-généralités.
 10. La fonction exponentielle.
 11. La géométrie repèrée.
