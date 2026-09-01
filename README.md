@@ -1,6 +1,6 @@
 Progression pour l'année 2026-2027 (Attention, ceci est à titre informatif et est susceptible d'être modifié au cours de l'année). 
 1. Second degré
-2.La trigonométrie.
+2. La trigonométrie.
 3. Les probabilités conditionnelles.
 4. Les suites arithmétiques et géométriques.
 5. Le produit scalaire.
